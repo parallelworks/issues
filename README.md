@@ -1,4 +1,4 @@
-# issues
+# Parallel Works Issue Tracker
 
 Welcome to the Parallel Works public issue tracker.
 
